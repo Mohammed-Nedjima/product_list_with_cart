@@ -6,7 +6,6 @@ import Modal from "./components/modal/modal";
 
 function App() {
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const cartItems = useContext(CartContext);
 
   const handleConfirmOrder = () => {
     setIsModalOpen(true);
