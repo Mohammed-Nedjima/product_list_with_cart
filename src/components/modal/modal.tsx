@@ -55,7 +55,7 @@ const Modal = ({ isOpen, onCloseModal }: ModalProps) => {
           <h2 className="text-4xl font-extrabold  mb-2">Order Confirmed</h2>
           <p className="text-rose-500">We hope you enjoy your food!</p>
         </div>
-        <ul className="bg-rose-50 px-6 py-2 rounded-lg">
+        <ul className="bg-rose-50 px-6 py-2 rounded-lg max-h-96 overflow-y-auto">
           {[...cartItems.entries()]
             .filter((item) => item[1] > 0)
             .map((item) => (
