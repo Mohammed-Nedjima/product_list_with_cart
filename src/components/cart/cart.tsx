@@ -17,7 +17,7 @@ const Cart = ({ onConfirmOrder }: CartProps) => {
   const { cartItems, removeProduct } = context;
 
   return (
-    <div className="bg-white p-6 grid gap-4 rounded-xl h-fit w-full col-span-2 lg:col-span-1 ">
+    <div className="bg-white p-4 grid gap-4 rounded-xl h-fit  col-span-1 md:col-span-2 lg:col-span-1 ">
       <h2 className="text-xl text-red font-bold mb-4">
         Your Cart ({cartItems.size})
       </h2>
