@@ -12,7 +12,6 @@ This is a solution to the [Product list with cart challenge on Frontend Mentor](
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -97,3 +96,7 @@ I plan to continue developing my skills in React and TypeScript by building more
 
 - Frontend Mentor - [@Mohammed-Nedjima](https://www.frontendmentor.io/profile/Mohammed-Nedjima)
 - LinkedIn - [Mohammed Ayoub Nedjima](https://www.linkedin.com/in/mohammed-ayoub-nedjima/)
+
+## Acknowledgments
+
+Thanks for Frontend Mentor team for providing this amazing, it really helped me practice my skills as a front end developer. 
